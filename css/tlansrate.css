@@ -1,0 +1,53 @@
+/*
+top right bottom left
+
+blue: 00b0f0
+red:  f00
+green: 00b050
+
+Berlin Sans FB Demi
+
+*/
+
+body{
+   margin:0;
+   padding:0;
+   line-height: 1.5em;
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   font-size:12px;
+   color: #111111;
+}
+
+div.url{
+   margin-left: auto ;
+   margin-right: auto ;
+   border: 1px solid red; 
+}
+
+input{
+   border: 1px solid #00b0f0; 
+   font-size: 18px;
+   color:#00b0f0;
+   padding:5px 7px 5px 7px;
+}
+
+img.banner{
+   margin-top:0px;
+   margin-bottom:30px;
+}
+
+div.explanation{
+   color:#555;
+   font-size:14px;
+   font-weight:bold;
+   margin-bottom:5px;
+}
+
+a.lucky{
+   margin-top:40px;
+   padding: 6px 12px 6px 12px;
+   color:#888;
+   border: 1px solid #ddd; 
+   background:#efefef;   
+   text-decoration:none; 
+}
